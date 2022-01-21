@@ -1,0 +1,16 @@
+body{
+    padding: 20px 20px;
+    background-color: lightpink;
+}
+h1{
+    color:mediumvioletred
+}
+label{
+color:gray;
+}
+hr{
+    color:fuchsia
+}
+p{
+    color:gray;
+}
