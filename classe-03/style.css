@@ -22,3 +22,18 @@
 .escondidoFORRO{
     display: none;
 }
+body{
+    padding: 20px 20px 20px;
+    background-color:plum;
+    color: black;
+    text-decoration: 14px;
+    text-transform: uppercase;
+}
+button{
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border-color:#333;
+    cursor:pointer;
+}
